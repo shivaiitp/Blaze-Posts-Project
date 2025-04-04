@@ -128,7 +128,7 @@ Pull requests are welcome! If you find a bug or want to improve the app, feel fr
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License].
 
 ---
 
